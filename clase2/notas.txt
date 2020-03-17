@@ -1,0 +1,24 @@
+javascript
+
+     para interactividad
+
+     MODIFICAR EL DOM
+
+        modificar algun atributo
+        modificar el contenido
+        crear nuevos elementos
+
+
+     se usa dot syntax
+
+    variables
+        se utiliza la palabra var
+        se utiliza la palabra let
+
+    funciones
+        se utiliza la palabra function
+
+
+    11:50
+
+        12:05
