@@ -19,6 +19,3 @@ javascript
         se utiliza la palabra function
 
 
-    11:50
-
-        12:05
