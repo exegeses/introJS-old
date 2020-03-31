@@ -19,4 +19,10 @@ javascript
         se utiliza la palabra function
 
 
-    ¿dudas? ¿consultas? ES MOMENTO
+
+    guardar en memoria
+
+        1 dato  -> variable
+
+        varias instrucciones -> funciones
+
