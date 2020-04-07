@@ -27,7 +27,7 @@ javascript
         varias instrucciones -> funciones
 
 
-    11:54
 
-
-        12:15
+    tarea:   cuando pulso el link,
+            mostrar en el figure la imágen de un dado
+               (tirar el dado)
