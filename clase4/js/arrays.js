@@ -19,3 +19,14 @@ var nombre4 = 'Marcos';
 
     console.log( nombres );
     console.log( nombres[2] );
+
+
+/* ## EN HTML tenemos también colecciones del DOM  */
+    var parrafos = document.getElementsByTagName('p');
+
+        console.log( parrafos );
+
+    var lis = document.getElementsByTagName('li');
+
+        console.log( lis );
+        lis[2].style.fontWeight = 'bold';
