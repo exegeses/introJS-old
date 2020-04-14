@@ -21,3 +21,7 @@ var articulos = document.getElementsByClassName('producto');
 
 //## usando su selector
 
+var contenido = document.querySelector('#contenido');
+    contenido.innerText = 'Contenido del párrafo modificado con javascript utilizando querySelector()';
+var cajaProducto = document.querySelectorAll('.producto');
+    cajaProducto[4].style.backgroundColor = '#c7f8e0';
