@@ -28,3 +28,6 @@ button{
     color: #DD9E50;
     width: 500px;
 }
+#errorNombre, #errorEmail{
+    color: #d00;
+}
