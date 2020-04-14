@@ -11,3 +11,20 @@ body{
     border-radius: 5px;
     margin-top: 15px;
 }
+
+a{
+    color: #019995;
+    text-decoration: none;
+    padding: 4px;
+}
+a:hover{
+    color: #01aca8;
+    text-decoration: underline;
+}
+.producto{
+    display: inline-block;
+    width: 200px;
+    padding: 20px;
+    margin: 10px;
+    border: 1px solid #01aca8;
+}
